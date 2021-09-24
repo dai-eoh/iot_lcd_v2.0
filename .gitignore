@@ -1,0 +1,10 @@
+#Git ignore file
+Debug/
+*.bin
+*.elf
+*.list
+*.map
+*.mk
+*.o
+*.d
+*.su
